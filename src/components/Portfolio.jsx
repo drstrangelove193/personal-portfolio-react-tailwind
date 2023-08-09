@@ -1,5 +1,4 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
 import barberShop from "../assets/portfolio/barber-shop.jpg"
 import searchMe from "../assets/portfolio/searchme.png"
 import library from "../assets/portfolio/library.jpg"
